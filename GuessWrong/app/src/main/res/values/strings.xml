@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Guess Wrong</string>
+    <string name="button1">Start</string>
+    <string name="button2">Help</string>
+    <string name="button3">Exit</string>
+    <string name="title">Exit?</string>
+    <string name="title1">Quit?</string>
+    <string name="msg">Are you sure?</string>
+    <string name="msg1">Are you sure?</string>
+    <string name="menu1">Setting</string>
+    <string name="menu2">Share</string>
+    <string name="menu3">About Us</string>
+    <string name="menu4">Feedback</string>
+    <string name="menu5">Rate Us</string>
+    <string name="hint1">Enter your name</string>
+    <string name="hint2">Enter your email address</string>
+    <string name="hint3">Enter your message</string>
+    <string name="button4">Send</string>
+    <string name="button5">Clear</string>
+    <string name="rtext">Correct</string>
+    <string name="wtext">Wrong</string>
+    <string name="ttext">Timeout</string>
+    <string name="vol">Volume</string>
+    <string name="high">Score Board</string>
+    <string name="sfx">SFX</string>
+    <string name="music">Music</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="theme">Theme</string>
+    <string name="def">Default</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="set">Set</string>
+    <string name="hgh">BEST SCORES</string>
+
+    <string name="help">
+1st RULE: You do not ANSWER RIGHT. \n
+2nd RULE: Your WRONG ANSWER is the ACCURATE ANSWER. \n
+
+3rd RULE: Only 3 CHANCES to complete. \n
+
+4th RULE: For each WRONG you get a SCORE. \n
+
+5th RULE: There is a fixed timer for each QUESTION. You miss the TIMER, one chance is gone. \n
+
+6th RULE: On difficulties, BEST of luck. \n
+
+7th RULE: If this is your FIRST time on this game, you HAVE to play. \n
+
+
+    </string>
+
+    <string name="helpup">
+
+        WRONG RULEZ
+
+
+    </string>
+
+    <string name="b">
+
+       Developed By
+
+
+    </string>
+
+    <string name="c">
+
+        Sabbir Ahammed \n
+        A.S.M. Abdullah Zaki \n
+        Mallik Mohammed Ashraf
+
+    </string>
+
+
+    <string name="d">
+
+    Guess Wrong is a fun game based on quiz category app. Our main goal is to test how a human brain reacts to choose the wrong option although knowing the right one. It is a different approach by our team to look forward to it. By brainstorming, it is also good for training the brain. So with our team, we developed this app for all the good.
+
+
+    </string>
+
+</resources>

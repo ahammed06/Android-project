@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/background"
+    android:padding="30dp"
+    android:id="@+id/layout1"
+    android:orientation="vertical"
+    android:weightSum="5"
+    tools:context=".Main1Activity">
+
+    <TextView
+        android:id="@+id/best"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:text="@string/hgh"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#c1120e"
+        android:layout_marginBottom="25dp"
+        />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        >
+
+        <TextView
+            android:id="@+id/hghscr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textSize="22sp"
+            android:textAlignment="center"
+            android:textColor="#d3b844"
+
+            />
+
+    </ScrollView>
+
+
+
+</LinearLayout>
